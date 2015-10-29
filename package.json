@@ -1,0 +1,19 @@
+{
+  "name": "express-typescript",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.13.3",
+    "hbs": "^3.1.1",
+    "react": "^0.14.1"
+  },
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-tsd": "0.0.4",
+    "gulp-typescript": "^2.9.2",
+    "tsd": "^0.6.5"
+  }
+}
